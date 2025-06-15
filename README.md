@@ -9,7 +9,7 @@ Este é o repositório desenvolvido durante uma live no Youtube em parceria com 
 
 
 		ChatGPT
-		MidJourney
+		Gemini
 		ElevenLabs
 		Capcut
 
@@ -34,7 +34,7 @@ Este é o repositório desenvolvido durante uma live no Youtube em parceria com 
 
 🛠️ Instruções de execução
 
-🤖 1. Use os prompts de roteiro no chagpt
-🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
-🤖 3. Use os prompts de artes no midjourney
+		🤖 1. Use os prompts de roteiro no chagpt
+		🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
+		🤖 3. Use os prompts de artes no Gemini
 
