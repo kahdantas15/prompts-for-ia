@@ -38,3 +38,4 @@ Este é o repositório desenvolvido durante uma live no Youtube em parceria com 
 		🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
 		🤖 3. Use os prompts de artes no Gemini
 
+Resultado do PodCast: PodCast_IA-n Solo.mp4
