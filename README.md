@@ -6,25 +6,31 @@ Este é o repositório desenvolvido durante uma live no Youtube em parceria com 
 
 
 💻 Tecnologias utilizadas no projeto
-ChatGPT
-MidJourney
-ElevenLabs
-Capcut
+
+
+		ChatGPT
+		MidJourney
+		ElevenLabs
+		Capcut
 
 
 
 ✨ Como foi feito ?
-Roteiro gerado via chatgpt
-Audio gerado pela elevenLabs
-Gemini Para gerar capas
-Capcut para tratar aúdio e adicionar sons de fundo
+
+
+		Roteiro gerado via chatgpt
+		Audio gerado pela elevenLabs
+		Gemini Para gerar capas
+		Capcut para tratar aúdio e adicionar sons de fundo
 
 
 
 📚 Materiais
-Link da live no Youtube
-GitBook Template
-Editor de aúdio
+
+
+		Link da live no Youtube
+		GitBook Template
+		Editor de aúdio
 
 🛠️ Instruções de execução
 
